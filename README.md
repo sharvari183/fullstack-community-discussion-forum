@@ -1,2 +1,27 @@
-# fullstack-community-discussion-forum
-A full-stack Community Discussion Forum built using Node.js, Express, MongoDB, and Socket.io, allowing users to create posts, interact, and engage in real-time discussions.
+# Community Discussion Forum (Backend Project)
+
+This is a simple backend project for a Community Discussion Forum built using Node.js, Express, and MongoDB.
+
+---
+
+## 📌 Features
+
+- Create posts
+- View all posts
+- MongoDB database integration
+- Basic REST API setup
+
+---
+
+## 🛠️ Tech Stack
+
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- dotenv
+
+---
+
+
+
